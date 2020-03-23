@@ -19,15 +19,15 @@ Additional description about the project and its features.
 
 👤 **Author1**
 
-- Github: [@githubhandle](https://github.com/ElijahTobs)
-- Twitter: [@twitterhandle](https://twitter.com/Elijahgr8)
-- Linkedin: [linkedin](https://linkedin.com/in/ayandokunelijah)
+- Github: [@ElijahTobs](https://github.com/ElijahTobs)
+- Twitter: [@Elijahgr8](https://twitter.com/Elijahgr8)
+- Linkedin: [@ayandokunelijah](https://linkedin.com/in/ayandokunelijah)
 
 👤 **Author2**
 
-- Github: [@githubhandle](https://github.com/tGodson)
-- Twitter: [@twitterhandle](https://twitter.com/tendongze95)
-- Linkedin: [linkedin](https://linkedin.com/in/tendongze-godson)
+- Github: [@tGodson](https://github.com/tGodson)
+- Twitter: [@tendongze95](https://twitter.com/tendongze95)
+- Linkedin: [tendongze-godson-a95795163](https://linkedin.com/in/tendongze-godson-a95795163)
 
 ## 🤝 Contributing
 
