@@ -1,0 +1,47 @@
+body{
+    background-color: #F1F1F1;
+    margin: 0;
+    padding: 0;
+}
+
+
+img{
+    width: 30px;
+    height: 30px;
+}
+
+.youtube-img{
+    width: 150px;
+    height: 80px;
+}
+
+button[type=submit] {
+    height: 2em;
+    margin: 0;
+}
+
+.header1{
+    display: flex;
+    padding: 15px;
+    background-color: white;
+    grid-template-columns: auto;
+    justify-content: space-evenly;
+}
+
+input[type=text] {
+    width: 40em;
+    height: 2em;
+    margin: 0;
+    padding: 0;
+}
+/* .menu-icon{
+    margin: 15px;
+} */
+
+.sign-in button {
+    background-color: #167AC6;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    border: none;
+}
